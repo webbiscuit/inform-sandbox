@@ -6,4 +6,6 @@ Creating interactive fiction with the amazing http://inform7.com/
 
 You find yourself lost in werewolf forest. Not only is it very scary, it is also full of werewolves.
 
-![Image of Werewolf Forest](https://github.com/webbiscuit/inform_sandbox/blob/master/werewolf-forest.PNG)
+[Source for Werewolf Forest](werewolf-forest/werewolf-forest.ni)
+
+![Image of Werewolf Forest](werewolf-forest/werewolf-forest.PNG)
