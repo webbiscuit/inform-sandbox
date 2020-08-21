@@ -29,3 +29,4 @@ event description
 "The werewolf sniffs around you."
 "The werewolf says 'Hi, my name is Malcolm.'"
 
+Release along with an interpreter and source text.
